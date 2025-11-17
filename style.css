@@ -7,7 +7,7 @@
 
 /* Conteneur global */
 .slider-container {
-    max-width: 1920px;
+    max-width: 1080px;
     margin: auto;
 }
 
@@ -74,3 +74,4 @@
 .btn:hover {
     transform: translateY(-50%) scale(1.1);
 }
+
